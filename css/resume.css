@@ -5,7 +5,7 @@
  */
  @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed&display=swap');
  body {
-  font-family: 'Roboto';
+  font-family: 'Roboto','Times';
   padding-top: 54px;
   color: #868e96;
 }
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto';
+  font-family: 'Roboto','Times';
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -50,7 +50,7 @@ p.lead {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Roboto';
+  font-family: 'Roboto','Times';
   font-size: 1.1rem;
 }
 
