@@ -12,8 +12,7 @@
 
 - 😄 I am a Computer Science student at IIITDM Jabalpur.
 - 💬 Ask me about : Node, C++, JavaScript
-
-<!--
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=thesid01&show_icons=true alt=thesid01 /> </p><!--
 **thesid01/thesid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
