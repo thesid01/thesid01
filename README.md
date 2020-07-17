@@ -12,7 +12,7 @@
 <a href=https://codepen.io/thesid01 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="thesid01" height="20" width="20" /></a>
 <a href=https://twitter.com/_thesid01 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="_thesid01" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/thesid01 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="thesid01" height="20" width="20" /></a>
-<a href=https://stackoverflow.com/10304642 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="10304642" height="20" width="20" /></a>
+<a href=https://stackoverflow.com/users/10304642 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="10304642" height="20" width="20" /></a>
 <a href=https://fb.com/thesid11 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="thesid11" height="20" width="20" /></a>
 <a href=https://instagram.com/short.tempered_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="short.tempered_" height="20" width="20" /></a>
 </p>
